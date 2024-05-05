@@ -1,0 +1,28 @@
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(44, 17, 63);
+    align-items: center;
+}
+
+
+
+h1 {
+    color: white;
+    align-items: center;
+}
+
+img {
+    border-radius: 200px;
+    height: 400px;
+}
+
+p {
+    color: white;
+    align-items: center;
+}
